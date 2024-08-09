@@ -1,0 +1,378 @@
+{
+    "en-es": {
+     "attend underfunded schools": {
+      "createdTime": 1716992822051,
+      "dict": [],
+      "translation": "asistir a escuelas con fondos insuficientes"
+     },
+     "break the cycle of": {
+      "createdTime": 1716993779862,
+      "dict": [],
+      "translation": "romper el ciclo de"
+     },
+     "bridging the educational gap": {
+      "createdTime": 1716993648136,
+      "dict": [],
+      "translation": "cerrar la brecha educativa"
+     },
+     "complete": {
+      "createdTime": 1717611481324,
+      "dict": [
+       {
+        "pos": "verb",
+        "terms": [
+         "completar",
+         "terminar",
+         "acabar",
+         "afinar"
+        ]
+       },
+       {
+        "pos": "adjective",
+        "terms": [
+         "completo",
+         "absoluto",
+         "pleno",
+         "entero",
+         "cabal",
+         "acabado",
+         "realizado",
+         "cumplido",
+         "hecho"
+        ]
+       }
+      ],
+      "translation": "completo"
+     },
+     "conversely": {
+      "createdTime": 1716993142693,
+      "dict": [
+       {
+        "pos": "adverb",
+        "terms": [
+         "a la inversa"
+        ]
+       }
+      ],
+      "translation": "en cambio"
+     },
+     "creating a more level playing field": {
+      "createdTime": 1716993685060,
+      "dict": [],
+      "translation": "creando un campo de juego más nivelado"
+     },
+     "creating a vicious cycle": {
+      "createdTime": 1716992689365,
+      "dict": [],
+      "translation": "creando un círculo vicioso"
+     },
+     "denied access to": {
+      "createdTime": 1716993158596,
+      "dict": [],
+      "translation": "acceso denegado a"
+     },
+     "disadvantaged backgrounds": {
+      "createdTime": 1716993594587,
+      "dict": [],
+      "translation": "orígenes desfavorecidos"
+     },
+     "economic progress": {
+      "createdTime": 1716992714842,
+      "dict": [],
+      "translation": "progreso económico"
+     },
+     "educational disparities": {
+      "createdTime": 1716993032121,
+      "dict": [],
+      "translation": "disparidades educativas"
+     },
+     "educational equity": {
+      "createdTime": 1716993901285,
+      "dict": [],
+      "translation": "equidad educativa"
+     },
+     "educational outcomes of": {
+      "createdTime": 1716994218913,
+      "dict": [],
+      "translation": "resultados educativos de"
+     },
+     "educational policies": {
+      "createdTime": 1716993537863,
+      "dict": [],
+      "translation": "políticas educativas"
+     },
+     "equitable society": {
+      "createdTime": 1716993727866,
+      "dict": [],
+      "translation": "sociedad equitativa"
+     },
+     "exacerbating the gap": {
+      "createdTime": 1716993321336,
+      "dict": [],
+      "translation": "exacerbando la brecha"
+     },
+     "excessive use of": {
+      "createdTime": 1716857838174,
+      "dict": [],
+      "translation": "uso excesivo de"
+     },
+     "extracurricular activities": {
+      "createdTime": 1716993287288,
+      "dict": [],
+      "translation": "actividades extracurriculares"
+     },
+     "face significant barriers to": {
+      "createdTime": 1716993173356,
+      "dict": [],
+      "translation": "enfrentan barreras significativas para"
+     },
+     "government initiatives": {
+      "createdTime": 1716993620792,
+      "dict": [],
+      "translation": "iniciativas gubernamentales"
+     },
+     "has also raised concerns about": {
+      "createdTime": 1716857787370,
+      "dict": [],
+      "translation": "también ha planteado preocupaciones sobre"
+     },
+     "has limited earning potential": {
+      "createdTime": 1716993384585,
+      "dict": [],
+      "translation": "tiene un potencial de ingresos limitado"
+     },
+     "have a significant impact on": {
+      "createdTime": 1716993513134,
+      "dict": [],
+      "translation": "tener un impacto significativo en"
+     },
+     "hinders social mobility": {
+      "createdTime": 1716992709246,
+      "dict": [],
+      "translation": "dificulta la movilidad social"
+     },
+     "impact on our mental health": {
+      "createdTime": 1716857802138,
+      "dict": [],
+      "translation": "impacto en nuestra salud mental"
+     },
+     "impact their future prospects": {
+      "createdTime": 1716994176197,
+      "dict": [],
+      "translation": "impactar sus perspectivas futuras"
+     },
+     "inequality": {
+      "createdTime": 1716992639178,
+      "dict": [
+       {
+        "pos": "noun",
+        "terms": [
+         "desigualdad"
+        ]
+       }
+      ],
+      "translation": "desigualdad"
+     },
+     "invest in early childhood education programs": {
+      "createdTime": 1716993497208,
+      "dict": [],
+      "translation": "invertir en programas de educación infantil"
+     },
+     "it contributes to social unrest": {
+      "createdTime": 1716993440698,
+      "dict": [],
+      "translation": "contribuye al malestar social"
+     },
+     "learn": {
+      "createdTime": 1717611473684,
+      "dict": [
+       {
+        "pos": "verb",
+        "terms": [
+         "aprender",
+         "saber",
+         "conocer",
+         "averiguar",
+         "descubrir",
+         "enterarse de",
+         "enseñar",
+         "enseñarse",
+         "hacer un descubrimiento",
+         "dar enseñanza"
+        ]
+       }
+      ],
+      "translation": "aprender"
+     },
+     "limited resources": {
+      "createdTime": 1716992833792,
+      "dict": [],
+      "translation": "recursos limitados"
+     },
+     "limiting their future opportunities": {
+      "createdTime": 1716992855945,
+      "dict": [],
+      "translation": "limitando sus oportunidades futuras"
+     },
+     "low-income households": {
+      "createdTime": 1716993257658,
+      "dict": [],
+      "translation": "hogares de bajos ingresos"
+     },
+     "multi-faceted approach": {
+      "createdTime": 1716993466637,
+      "dict": [],
+      "translation": "enfoque multifacético"
+     },
+     "non-profits": {
+      "createdTime": 1716993632457,
+      "dict": [
+       {
+        "pos": "noun",
+        "terms": [
+         "no lucrativo",
+         "no comercial"
+        ]
+       }
+      ],
+      "translation": "sin fines de lucro"
+     },
+     "perpetuates social inequality": {
+      "createdTime": 1716992677720,
+      "dict": [],
+      "translation": "perpetúa la desigualdad social"
+     },
+     "poorly educated population": {
+      "createdTime": 1716993356612,
+      "dict": [],
+      "translation": "población con poca educación"
+     },
+     "productive workforce": {
+      "createdTime": 1716993957974,
+      "dict": [],
+      "translation": "fuerza laboral productiva"
+     },
+     "programmers": {
+      "createdTime": 1717636901892,
+      "dict": [
+       {
+        "pos": "noun",
+        "terms": [
+         "programador"
+        ]
+       }
+      ],
+      "translation": "programadores"
+     },
+     "reach their full potential": {
+      "createdTime": 1716993610578,
+      "dict": [],
+      "translation": "alcanzar su máximo potencial"
+     },
+     "reduce class sizes": {
+      "createdTime": 1716993549028,
+      "dict": [],
+      "translation": "reducir el tamaño de las clases"
+     },
+     "reduces tax revenue": {
+      "createdTime": 1716993409439,
+      "dict": [],
+      "translation": "reduce los ingresos fiscales"
+     },
+     "regardless of their background": {
+      "createdTime": 1716993797601,
+      "dict": [],
+      "translation": "independientemente de sus antecedentes"
+     },
+     "reunited with": {
+      "createdTime": 1717899667355,
+      "dict": [],
+      "translation": "reunido con"
+     },
+     "secure well-paying jobs": {
+      "createdTime": 1716993098947,
+      "dict": [],
+      "translation": "conseguir empleos bien remunerados"
+     },
+     "shaped your views on": {
+      "createdTime": 1716994252276,
+      "dict": [],
+      "translation": "moldeó sus puntos de vista sobre"
+     },
+     "societal impacts of": {
+      "createdTime": 1716994130754,
+      "dict": [],
+      "translation": "impactos sociales de"
+     },
+     "socioeconomic factors.": {
+      "createdTime": 1716993236684,
+      "dict": [],
+      "translation": "factores socioeconómicos."
+     },
+     "sound economic investment": {
+      "createdTime": 1716993704650,
+      "dict": [],
+      "translation": "buena inversión económica"
+     },
+     "strains social services": {
+      "createdTime": 1716993422137,
+      "dict": [],
+      "translation": "tensa los servicios sociales"
+     },
+     "tackling educational inequality": {
+      "createdTime": 1716993742389,
+      "dict": [],
+      "translation": "abordar la desigualdad educativa"
+     },
+     "targeted support programs": {
+      "createdTime": 1716993565234,
+      "dict": [],
+      "translation": "programas de apoyo específicos"
+     },
+     "the widespread use of": {
+      "createdTime": 1716857768185,
+      "dict": [],
+      "translation": "el uso generalizado de"
+     },
+     "turn on my computer": {
+      "createdTime": 1717432262604,
+      "dict": [],
+      "translation": "encender mi computadora"
+     },
+     "undermines economic growth": {
+      "createdTime": 1716993451019,
+      "dict": [],
+      "translation": "socava el crecimiento económico"
+     },
+     "underprivileged areas": {
+      "createdTime": 1716993480169,
+      "dict": [],
+      "translation": "zonas desfavorecidas"
+     },
+     "unequal access to": {
+      "createdTime": 1716992666850,
+      "dict": [],
+      "translation": "acceso desigual a"
+     },
+     "up-to-date facilities": {
+      "createdTime": 1716993925170,
+      "dict": [],
+      "translation": "instalaciones actualizadas"
+     },
+     "upward mobility": {
+      "createdTime": 1716993188430,
+      "dict": [],
+      "translation": "movilidad ascendente"
+     },
+     "we cannot afford to ignore": {
+      "createdTime": 1716993758030,
+      "dict": [],
+      "translation": "no podemos darnos el lujo de ignorar"
+     },
+     "which in turn": {
+      "createdTime": 1716993395535,
+      "dict": [],
+      "translation": "que a su vez"
+     }
+    }
+   }

@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Flashcards de Vocabulario",
+  "version": "1.0",
+  "description": "Una extensión para mostrar flashcards de vocabulario en inglés.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png"
+    }
+  },
+  "permissions": ["storage"]
+}
